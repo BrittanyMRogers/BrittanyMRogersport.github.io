@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "1.0.0",
+  "homepage": "https://github.com/BrittanyMRogers/BrittanyMRogersport.github.io.git",
   "main": "src/index.jsx",
   "devDependencies": {
     "r3f-pack": "latest",
